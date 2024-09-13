@@ -1,0 +1,4 @@
+Di Nuxt.js, direktori pages adalah bagian 
+penting dari struktur proyek Anda. Direktori ini digunakan untuk 
+mendefinisikan rute aplikasi Anda secara otomatis. Setiap file atau folder di dalam pages menjadi 
+rute di aplikasi Anda, dan Nuxt.js mengatur routing berdasarkan struktur file di direktori ini.

@@ -1,0 +1,4 @@
+Dalam Nuxt.js, terutama dengan penggunaan Nuxt 3 dan Vue 3, 
+konsep composables menjadi sangat penting untuk menangani logika reaktif dan reusable. 
+Direktori composables biasanya digunakan untuk menyimpan fungsi-fungsi 
+composable yang dapat digunakan di seluruh aplikasi Anda.
